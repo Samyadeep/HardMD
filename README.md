@@ -23,3 +23,8 @@ url={https://openreview.net/forum?id=wq0luyH3m4}
 python fastdiffsel_md.py --dataset=meta_dataset --base_sources=aircraft --data-path /fs/cml-datasets/Meta-Dataset --arch dino_small_patch16 --fp16 --device cuda:0  --deploy weighted --weighted_step_size 0.2 --optimizer_epoch 1 --kmax 10 --query_opt 5 --joint_opt --sup 5  --md_sampling
 
 ```
+
+
+### Coming Soon!
+
+#### data-loaders for extracted tasks from Meta-Dataset using FastDiffSel
