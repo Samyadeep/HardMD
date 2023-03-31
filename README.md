@@ -35,4 +35,6 @@ python fastdiffsel_md.py --dataset=meta_dataset --base_sources=aircraft --data-p
 pip install requirements.txt
 ```
 
+#### To install the .h5 files in Meta-Dataset, follow the procedure in https://github.com/hushell/pmf_cvpr22
+
 #### Correspondence to sbasu12@umd.edu
