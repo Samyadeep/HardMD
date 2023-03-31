@@ -28,3 +28,6 @@ python fastdiffsel_md.py --dataset=meta_dataset --base_sources=aircraft --data-p
 ### Coming Soon!
 
 #### data-loaders for extracted tasks from Meta-Dataset using FastDiffSel
+
+
+#### Correspondence to sbasu12@umd.edu
